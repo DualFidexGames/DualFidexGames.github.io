@@ -1,3 +1,3 @@
-# DualFidex.World.github.io
+# DualFidex World
 
 Mi página web
