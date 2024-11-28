@@ -1,16 +1,25 @@
-h1,h2,h5{
+h1,h2{
+    
+    text-align: center;
+    color: #ffd700;
+}
+
+h5{
   text-align: center;
   color: #fff;
 }
 
-h2{
-  color: #ffd700;
+img{
+    
+    text-align: center;
 }
 
-imagen{
-  text-align: center;
+game{
+
+  max-height: 50%;
+  
 }
+
 body{
   background-color: #000;
-  text-align: center;
 }
