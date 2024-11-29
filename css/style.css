@@ -14,10 +14,8 @@ h5{
 
 
 
-game{
+#game{
     
-  text-align: center;
-  max-height: 50%;
   display: block;
   margin: auto;
   
