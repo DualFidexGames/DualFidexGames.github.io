@@ -4,21 +4,26 @@ h1,h2, h3{
     color: #ffd700;
 }
 
+
+
 h5{
+    
   text-align: center;
   color: #fff;
 }
 
-img{
-    
-    text-align: center;
-}
+
 
 game{
+    
   text-align: center;
   max-height: 50%;
+  display: block;
+  margin: auto;
   
 }
+
+
 
 body{
   background-color: #000;
