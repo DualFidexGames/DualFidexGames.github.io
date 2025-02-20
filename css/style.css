@@ -1,28 +1,39 @@
-#text-amarillo{
-    
-    text-align: center;
-    color: #ffd700;
+/* Reset.css o Normalize.css aquí */
+
+/* Estilos generales */
+body {
+  background-color: #000;
+  font-family: Arial, sans-serif;
+  color: #fff;
+  margin: 0;
+  padding: 0;
 }
 
+/* Encabezados */
+#text-amarillo {
+  text-align: center;
+  color: #ffd700;
+}
 
-
-#text-blanco{
-    
+#text-blanco {
   text-align: center;
   color: #fff;
 }
 
-
-
-#game{
-    
+/* Imagenes */
+#game {
   display: block;
   margin: auto;
-  
 }
 
+/* Botón de descarga */
+button#game {
+  border: none;
+  background: none;
+  padding: 0;
+}
 
-
-body{
-  background-color: #000;
+button#game img {
+  width: 150px;
+  height: auto;
 }
